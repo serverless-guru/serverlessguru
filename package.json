@@ -1,0 +1,27 @@
+{
+  "name": "serverlessguru",
+  "version": "1.0.0",
+  "description": "Library of helper functions for serverless development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverless-guru/serverlessguru.git"
+  },
+  "keywords": [
+    "serverless",
+    "cloud",
+    "aws",
+    "helper",
+    "functions",
+    "programming"
+  ],
+  "author": "Serverless Guru, LLC",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/serverless-guru/serverlessguru/issues"
+  },
+  "homepage": "https://github.com/serverless-guru/serverlessguru#readme"
+}
